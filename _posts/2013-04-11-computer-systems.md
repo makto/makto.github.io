@@ -1,5 +1,6 @@
 ---
 layout: note
+category: note
 ---
 
 ## 第一章 计算机系统漫游
