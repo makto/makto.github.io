@@ -4,3 +4,9 @@ title: Makto's Reading Notes
 ---
 
 <p>Look around!</p>
+
+{% for post in site.posts %}
+<ul>
+    <li><a href={{ post.url }}>{{ post.title }}</a></li>
+</ul>
+{% endfor %}
