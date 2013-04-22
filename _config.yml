@@ -1,2 +1,2 @@
 permalink: /:title/
-markdown: redcarpet
+markdown: rdiscount
